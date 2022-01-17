@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My files
+brainstorming.txt
+insurance.csv
+python-portfolio-example-solution/
+python-portfolio-project-starter-files/
