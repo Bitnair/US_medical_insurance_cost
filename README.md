@@ -5,10 +5,8 @@
 1. Import a dataset
     + [Dataset source](https://www.kaggle.com/mirichoi0218/insurance)
     + [csv library](https://docs.python.org/3/library/csv.html)
-2. Analyze a dataset by building out functions or class methods
+2. Analyze a dataset
 3. Use libraries to assist in your analysis
-    + Panda
-    + Numpy
 4. *Optional: Document and organize your findings*
 5. *Optional: Make predictions about a dataset’s features based on your findings*
 
